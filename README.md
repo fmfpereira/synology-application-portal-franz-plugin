@@ -1,5 +1,5 @@
 # Synology DSM Application Portal for Franz
-This is the official Franz recipe for Synology DSM Application Portal
+This is a Franz plugin to run Synology DSM Application Portal Applications.
 
 ## Background
 
