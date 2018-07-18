@@ -1,0 +1,12 @@
+{
+  "id": "synology-aplication-portal",
+  "name": "Synology Application Portal",
+  "version": "1.0.0",
+  "description": "Synology Application Portal",
+  "main": "index.js",
+  "author": "Filipe Pereira <fmfpereira@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "hasCustomUrl": true
+  }
+}
